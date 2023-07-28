@@ -1,0 +1,1 @@
+# typed_struct_plugin_ctor
